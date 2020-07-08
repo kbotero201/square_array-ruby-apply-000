@@ -1,3 +1,2 @@
-
-square_array.each {|array| puts "#{array**2}
+square_array.each {|array| puts "#{array**2}"
 }
